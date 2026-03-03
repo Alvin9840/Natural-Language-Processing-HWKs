@@ -1,0 +1,20 @@
+# Basic scientific computing / data handling
+numpy
+pandas
+
+# Classic ML / feature extraction / evaluation
+scikit-learn
+
+# Visualization (for PCA / t-SNE plots, word clouds)
+matplotlib
+seaborn
+wordcloud
+
+# Pretrained word embeddings and NLP utilities
+gensim          # for Word2Vec / GloVe loading and training
+nltk            # for tokenization / stopwords if needed
+
+# Sentence embeddings (pick at least Sentence-BERT OR USE)
+sentence-transformers
+# tensorflow
+# tensorflow-hub
